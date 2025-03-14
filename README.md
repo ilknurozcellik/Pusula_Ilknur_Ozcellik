@@ -1,6 +1,6 @@
 # Pusula_Ilknur_Ozcellik
 İlknur Özçellik 
-ozceliki648@gmail.com
+
 
 It is a project prepared to become a member of Pusula Talent Academy.
 Bu proje aşağıdaki kütüphaneleri kullanmaktadır:
