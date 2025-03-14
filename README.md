@@ -1,8 +1,4 @@
-# Pusula_Ilknur_Ozcellik
-İlknur Özçellik 
 
-
-It is a project prepared to become a member of Pusula Talent Academy.
 Bu proje aşağıdaki kütüphaneleri kullanmaktadır:
 
 - Python 3.x
